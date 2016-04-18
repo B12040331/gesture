@@ -1,0 +1,30 @@
+﻿生成启动时间为 2016/4/18 16:55:37。
+     1>项目“E:\Users\cloudwind\Documents\GitHub\gesture\gesture\gesture\gesture.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>E:\Program Files (x86)\opencv\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>E:\Program Files (x86)\opencv\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>E:\Program Files (x86)\opencv\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>main.cpp(168): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(187): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 main.cpp(149) : 忽略“i”的定义
+                 main.cpp(60) : 使用“i”的定义
+     1>main.cpp(188): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 main.cpp(149) : 忽略“i”的定义
+                 main.cpp(60) : 使用“i”的定义
+     1>main.cpp(392): warning C4102: “defadult”: 未引用的标签
+     1>main.cpp(43): warning C4101: “count”: 未引用的局部变量
+     1>main.cpp(67): warning C4101: “thresh”: 未引用的局部变量
+     1>main.cpp(61): warning C4101: “pSource”: 未引用的局部变量
+     1>main.cpp(44): warning C4101: “key”: 未引用的局部变量
+     1>main.cpp(62): warning C4101: “pResult”: 未引用的局部变量
+     1>main.cpp(60): warning C4101: “j”: 未引用的局部变量
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\cloudwind\Documents\GitHub\gesture\gesture\x64\Debug\gesture.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib opencv_world310.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Users\cloudwind\Documents\GitHub\gesture\gesture\x64\Debug\gesture.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\cloudwind\Documents\GitHub\gesture\gesture\x64\Debug\gesture.lib" /MACHINE:X64 x64\Debug\main.obj
+         gesture.vcxproj -> E:\Users\cloudwind\Documents\GitHub\gesture\gesture\x64\Debug\gesture.exe
+     1>已完成生成项目“E:\Users\cloudwind\Documents\GitHub\gesture\gesture\gesture\gesture.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.87

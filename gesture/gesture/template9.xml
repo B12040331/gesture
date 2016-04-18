@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Avg type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>7</cols>
+  <dt>f</dt>
+  <data>
+    9.81282536e-003 2.64243281e-005 1.64693233e-007 5.69704710e-008
+    5.55679956e-015 2.36714315e-010 2.24569451e-016</data></Avg>
+</opencv_storage>
